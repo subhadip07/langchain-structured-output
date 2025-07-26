@@ -14,12 +14,8 @@ langchain-groq
 langchain-openai
 openai
 
-# Anthropic Integration
-langchain-anthropic
-
-# Google Gemini (PaLM) Integration
-langchain-google-genai
-google-generativeai
+pydantic
+pydantic[email]
 
 # Hugging Face Integration
 langchain-huggingface
